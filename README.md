@@ -99,6 +99,9 @@ Pipeline dijalankan otomatis di Linux menggunakan cron, memungkinkan pengambilan
 
 ![alt text](image.png)
 
+### **Screenshoot data hasil load:**
+![alt text](image-1.png)
+
 ---
 
 ### 📈 **Outcome**

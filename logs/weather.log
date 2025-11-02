@@ -4,3 +4,9 @@
 2025-11-02 18:41:06,522 | INFO | Load data to database..
 2025-11-02 18:41:06,555 | INFO | Load success..
 
+2025-11-02 18:50:32,281 | INFO | Extracting data from url..
+2025-11-02 18:50:33,953 | INFO | Extracting successful..
+2025-11-02 18:50:33,955 | INFO | Transforming data..
+2025-11-02 18:50:33,955 | INFO | Load data to database..
+2025-11-02 18:50:34,363 | INFO | Load success..
+
