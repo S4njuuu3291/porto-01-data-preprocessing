@@ -41,6 +41,7 @@ Proyek ini dibuat untuk memahami dasar-dasar data ingestion, pipeline automation
 ---
 
 ### 🏗️ **Architecture Diagram**
+![alt text](image-2.png)
 
 ### 🗂️ **Data Target Schema**
 
